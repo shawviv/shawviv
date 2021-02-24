@@ -4,21 +4,20 @@
 -->
 
 ### Hi there 👋 This is Vivek Shaw! 
-Welcome to my Github page! 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shawviv)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shawvivek/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shawvivworking@gmail.com@gmail.com)
 
-<body>
-<p style="font-size:80%;">I am an Enterprise Content Management Architect  and currently involved in implementing and customizing the document centric imaging and repository functionality for different business process of an UK based bank through ECM Techniques.</p>
-<p style="font-size:30%;">In simple words, I am one who make sure books are kept in proper shelf and out of kids reach :) </p>
-</body>
+
+<p>I am an Enterprise Content Management Architect  and currently involved in implementing and customizing the document centric imaging and repository functionality for different business process of an UK based bank through ECM Techniques.</p>
+<p>In simple words, I am one who make sure books are kept in proper shelf and out of kids reach :smile: </p>
+
 <img align="right" alt="img" src="https://github.com/shawviv/pylearn/blob/main/ml.jpg" width="50%" height="100%" />
 
 
 #### 🌱 Things I am currently working on apart from saving Bank: 
-- Finishing Artificial Intelligence programme from Oxford Univ [course link](https://www.conted.ox.ac.uk/courses/artificial-intelligence-cloud-and-edge-implementations)  
+- Finishing Artificial Intelligence programme from [Oxford Uni](https://www.conted.ox.ac.uk/courses/artificial-intelligence-cloud-and-edge-implementations)  
 - Learning Datascience in length on daily basis
 - Preparing for Google Cloud Architect certification
 - Preparing for Azure Cloud Architect certification
@@ -46,4 +45,4 @@ Welcome to my Github page!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[Vectorlogo](https://www.vectorlogo.zone/) for the wonderfull [logos]
+<sub>Credits to: [Vectorlogo](https://www.vectorlogo.zone/) for the wonderful logos
