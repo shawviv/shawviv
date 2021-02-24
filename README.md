@@ -4,13 +4,15 @@
 -->
 
 ### Hi there 👋 
-### This is Vivek Shaw!
+### This is Vivek Shaw! 
+Welcome to my Github page! 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shawviv)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shawviv/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shawvivek/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shawvivworking@gmail.com@gmail.com)
 
-Welcome to my Github page!   
+<p>I am an Enterprise Content Management Architect  and currently involved in implementing and customizing the document centric imaging and repository functionality for different business process of an UK based bank through ECM Techniques.</p>
+<p>In simple words, I am one who make sure books are kept in proper shelf and out of kids reach :) </p>
 
 <img align="right" alt="img" src="https://github.com/shawviv/pylearn/blob/main/ml.jpg" width="50%" height="100%" />
 
