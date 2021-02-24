@@ -7,16 +7,17 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shawviv)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shawvivek/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shawvivworking@gmail.com@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shawvivworking@gmail.com)
 
 
-I am an [ECM](https://www.aiim.org/Resources/Glossary/Enterprise-Content-Management) Architect :technologist: and currently involved in implementing the document centric imaging and repository functionality for different business process of an UK based bank through ECM Techniques.
-<p>In simple words, I am one who make sure books are kept in proper shelf and out of kids reach :smile: </p>
+I am an [ECM](https://www.aiim.org/Resources/Glossary/Enterprise-Content-Management) Architect :technologist:. In simple words, I am the one who make sure books are kept in proper shelf and out of kids reach :smile:.
+
+
 
 <img align="right" alt="img" src="https://github.com/shawviv/pylearn/blob/main/ml.jpg" width="50%" height="100%" />
 
 
-#### 🌱 Things I am currently working on apart from saving Bank: 
+#### 🌱 Things I am currently working on: 
 - Finishing Artificial Intelligence programme from [Oxford Uni](https://www.conted.ox.ac.uk/courses/artificial-intelligence-cloud-and-edge-implementations)  
 - Learning Datascience in length on daily basis
 - Preparing for Google Cloud Architect certification
