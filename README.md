@@ -12,7 +12,7 @@
 
 Welcome to my Github page!   
 
-<img align="right" alt="img" src="https://github.com/shawviv/pylearn/blob/main/ai.jpg" width="50%" height="100%" />
+<img align="right" alt="img" src="https://github.com/shawviv/pylearn/blob/main/ml.jpg" width="50%" height="100%" />
 
 
 #### 🌱 Things I am currently working on: 
@@ -26,9 +26,9 @@ Welcome to my Github page!
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
 
-#### :computer: Programming languages and tools: 
+#### :computer: Tech Stack: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=shawviv&show_icons=true&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=shawviv&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
