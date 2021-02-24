@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shawvivworking@gmail.com)
 
 
-I am an [ECM](https://www.aiim.org/Resources/Glossary/Enterprise-Content-Management) Architect :technologist:. In simple words, I am the one who make sure books are kept in proper shelf and out of kids reach :smile:.
+I am an [ECM](https://www.aiim.org/Resources/Glossary/Enterprise-Content-Management) Architect :technologist:. In simple words, I am the one who make sure classified books are kept in proper shelf and out of kids reach :smile:.
 
 
 
