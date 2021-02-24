@@ -14,7 +14,7 @@ I am an [ECM](https://www.aiim.org/Resources/Glossary/Enterprise-Content-Managem
 
 
 
-<img align="right" alt="img" src="https://github.com/shawviv/pylearn/blob/main/ml.jpg" width="50%" height="100%" />
+<img align="right" alt="img" src="https://github.com/shawviv/shawviv/blob/main/ml.jpg" width="50%" height="100%" />
 
 
 #### 🌱 Things I am currently working on: 
