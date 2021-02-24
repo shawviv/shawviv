@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shawvivworking@gmail.com@gmail.com)
 
 
-<p align="left" style="font-size:10%;">I am an [ECM](https://www.aiim.org/Resources/Glossary/Enterprise-Content-Management) Architect :technologist: and currently involved in implementing the document centric imaging and repository functionality for different business process of an UK based bank through ECM Techniques.</p>
+I am an [ECM](https://www.aiim.org/Resources/Glossary/Enterprise-Content-Management) Architect :technologist: and currently involved in implementing the document centric imaging and repository functionality for different business process of an UK based bank through ECM Techniques.
 <p>In simple words, I am one who make sure books are kept in proper shelf and out of kids reach :smile: </p>
 
 <img align="right" alt="img" src="https://github.com/shawviv/pylearn/blob/main/ml.jpg" width="50%" height="100%" />
