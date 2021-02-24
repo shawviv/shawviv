@@ -18,7 +18,7 @@ I am an [ECM](https://www.aiim.org/Resources/Glossary/Enterprise-Content-Managem
 
 
 #### 🌱 Things I am currently working on: 
-- Finishing Artificial Intelligence programme from [Oxford Uni](https://www.conted.ox.ac.uk/courses/artificial-intelligence-cloud-and-edge-implementations)  
+- Artificial Intelligence programme from [Oxford Uni](https://www.conted.ox.ac.uk/courses/artificial-intelligence-cloud-and-edge-implementations)  
 - Learning Datascience in length on daily basis
 - Preparing for Google Cloud Architect certification
 - Preparing for Azure Cloud Architect certification
