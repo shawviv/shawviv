@@ -47,4 +47,4 @@ I am an [ECM](https://www.aiim.org/Resources/Glossary/Enterprise-Content-Managem
 </p>
 
 <sub>Credits to: [Vectorlogo](https://www.vectorlogo.zone/) for the wonderful logos
-##### Without a good understanding of the full range of technology, an architect is little more than a project manager. - John Davies
+##### "Without a good understanding of the full range of technology, an architect is little more than a project manager" - John Davies
