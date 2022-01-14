@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shawvivworking@gmail.com)
 
 
-I am Solutions Architect :technologist:. 
+AI and Cloud Evangelist :technologist:. 
 
 
 
